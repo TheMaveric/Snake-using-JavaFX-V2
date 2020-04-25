@@ -2,7 +2,7 @@
 
 UPDATED VERSION WITH MENUS, LEADERBOARDS and LEVELS.
 # Download
-RUN AND PLAY! - > [SNAKE](https://github.com/TheMaveric/Snake-using-JavaFX-V2/blob/master/Snake/Snake.jar)
+RUN AND PLAY! - > [SNAKE](https://github.com/TheMaveric/Snake-using-JavaFX-V2/raw/master/Snake/Snake.jar)
 
 
 # Screens
